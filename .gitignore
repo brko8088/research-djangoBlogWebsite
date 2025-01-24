@@ -1,7 +1,4 @@
 .env
+env
 debug.log
-blogger/__pycache__
-blogfeed/__pycache__
-blogfeed/migrations/__pycache__
-members/__pycache__
-members/migrations/__pycache__
+*/__pycache__
